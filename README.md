@@ -5,4 +5,7 @@ This is a test github file
 - [x] Do a few more commits
 - [x] Check commits worked
 - [x] Publish repo to github online
+- [] to do
+- [] to do
+- [] to do
 - [] Fix this typo
