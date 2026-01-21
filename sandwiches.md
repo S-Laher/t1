@@ -3,6 +3,7 @@
 ,,,
 
 bread
+smoked salmon
 bread
 
 ,,,
