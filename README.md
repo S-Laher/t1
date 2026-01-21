@@ -8,4 +8,6 @@ This is a test github file
 - [] to do
 - [] to do
 - [] to do
+- [] to do more
+- [] to do more
 - [] Fix this typo
